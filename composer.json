@@ -1,0 +1,22 @@
+{
+    "name": "zainal21/mvc",
+    "description": "PHP MVC example",
+    "keywords": ["php","mvc","design","pattern","example"],
+    "authors": [
+        {
+            "name": "Muhamad Zainal Arifin",
+            "email": "Zainalarifin@gmail.com",
+            "homepage": "https://muhamad-zainal-arifin.netlify.app/",
+            "role": "Students"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "core/Support/helpers.php"
+        ],
+    	"psr-4" : {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    }
+}
