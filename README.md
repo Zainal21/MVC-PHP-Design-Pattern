@@ -18,7 +18,7 @@ Composer update or Composer install
 
 Run application
 ```
-access folder www/index.php
+access folder public/index.php
 ```
 
 --------------------------------------------------------------------------------------------------------------------
