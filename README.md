@@ -6,7 +6,7 @@ This Repo is example in PHP  of a Design Pattern MVC (Model-View-Controller)
 
 ### Instalation
 
-donwload or clone this repo
+Download or clone this Repo
 ```
 git clone https://github.com/Zainal21/MVC-PHP-Design-Pattern or download
 ```
