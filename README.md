@@ -6,10 +6,20 @@ This Repo is example in PHP  of a Design Pattern MVC (Model-View-Controller)
 
 ### Instalation
 
-* Download this package
-* With your terminal, go to your project: cd your-path
-* Run this command: php composer.phar update
-* Go to the URL: your-path/articles
+donwload or clone this repo
+```
+git clone https://github.com/Zainal21/MVC-PHP-Design-Pattern or download
+```
+install composer vendor dependences
+
+```
+Composer update or Composer install
+```
+
+Run aoplication
+```
+access folder www/index.php
+```
 
 --------------------------------------------------------------------------------------------------------------------
 ### Author
