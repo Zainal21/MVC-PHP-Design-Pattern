@@ -16,7 +16,7 @@ install composer vendor dependences
 Composer update or Composer install
 ```
 
-Run aoplication
+Run application
 ```
 access folder www/index.php
 ```
