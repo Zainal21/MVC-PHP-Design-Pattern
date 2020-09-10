@@ -7,4 +7,4 @@ use Core\Routing\Router;
 
 $router = Router::getInstance();
 
-$router->add('', 'Home@index');
+$router->add('', 'Book@index');

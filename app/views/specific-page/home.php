@@ -1,3 +1,0 @@
-<section>
-	Homepage content
-</section>
